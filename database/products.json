@@ -1,0 +1,30 @@
+{
+	"_id": {
+		"$oid": "59c2c13f706e8e03c4e4e287"
+	},
+	"sku": "sku1",
+	"title": "Product1",
+	"description": "Product1 Description",
+	"quantity": 99.0,
+	"price": 25.5,
+	"images": [
+		"/img/nike.jpg",
+		"/img/nike.jpg"
+	],
+	"categoryId": "59c2bfc7706e8e03c4e4e27f"
+}
+{
+	"_id": {
+		"$oid": "59c2c161706e8e03c4e4e288"
+	},
+	"sku": "sku2",
+	"title": "Product2",
+	"description": "Product2 Description",
+	"quantity": 50.0,
+	"price": 30.5,
+	"images": [
+		"/img/nike.jpg",
+		"/img/nike.jpg"
+	],
+	"categoryId": "59c2bfc7706e8e03c4e4e27f"
+}

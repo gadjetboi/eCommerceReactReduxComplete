@@ -1,0 +1,56 @@
+Categories
+	_id
+	title
+			
+Products
+	sku
+	title
+	description
+	quantity: 99
+	price
+	images[]
+		imgUrl
+	categoryId
+
+Carts
+	_id
+	status
+	quantity
+	totalAmount
+	products[]
+		sku
+		quantity
+
+Orders
+	_id
+	orderNo
+	createdOn
+	quantity
+	totalAmount
+	shipping
+		customer
+		address
+		city
+		region
+		state
+		country
+		deliveryNotes
+
+	tracking
+		company
+		trackingNumber
+		status
+		estimatedDelivery
+
+	payment
+		method
+		transactionId
+		amount
+		currency
+		paymentStatus
+
+	products[]
+		sku
+		quantity
+		
+	

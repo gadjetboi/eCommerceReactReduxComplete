@@ -1,0 +1,18 @@
+{
+	"_id": {
+		"$oid": "59d57b5f05929334145dc2ba"
+	},
+	"sessionId": "sessionId-j8bztfow",
+	"status": "Pending",
+	"quantity": 2,
+	"totalAmount": 25.5,
+	"products": [
+		{
+			"_id": {
+				"$oid": "59c2c13f706e8e03c4e4e287"
+			},
+			"quantity": 2
+		}
+	],
+	"__v": 0
+}

@@ -1,0 +1,13 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+export default class Footer extends React.Component {
+
+	render() {
+		return (
+			<footer>
+				<p>Author: Vanz T. Perla</p>
+			</footer>
+		)
+	}
+}
