@@ -5,6 +5,9 @@ import { getCategories } from "../actions/categoryAction";
 
 import Category from './Category';
 
+import HeaderTop from './HeaderTop/HeaderTop';
+import HeaderMiddle from './HeaderMiddle/HeaderMiddle'
+
 export default class Header extends React.Component {
 
 	constructor(props) {
@@ -32,6 +35,8 @@ export default class Header extends React.Component {
 
 		return (
 			<div>
+				<HeaderTop />
+				<HeaderMiddle />
 				<Category categories={categories} />
 			</div>
 		)

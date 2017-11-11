@@ -1,6 +1,0 @@
-npm init
-npm install --save webpack
-npm install -g webpack (for global command)
-
-npm install --save cross-env
-cross-env NODE_ENV=production webpack (to change environment)

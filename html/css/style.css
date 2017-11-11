@@ -1,0 +1,8 @@
+body {
+	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.cart-thumbnail {
+	height: 150px;
+	width: 150px;
+}
