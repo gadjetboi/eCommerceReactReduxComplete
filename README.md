@@ -1,7 +1,7 @@
 # eCommerceReactReduxComplete
-React, Redux, Express, MongoDb, Node.js, ES6. Include client server and admin
+React, Redux, Express, MongoDb, Node.js, ES6. Includes client server and admin
 
-<h5>Note: Development still in progress</h5>
+<h5>Note: Development is still in progress</h5>
 
 <h2>How to install<h/2>
 <h3>Server</h3>
